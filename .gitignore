@@ -1,0 +1,13 @@
+*.idea
+*.pyc
+*.db
+local_tiles/*
+media/*
+static/Nodes/*
+static/Species/*
+
+local_settings.py
+impl_settings.py
+choices.py
+fabfile.*
+.coverage
